@@ -1,2 +1,11 @@
 .env 
 node_modules
+logs/
+uploads/
+tmp/
+coverage/
+dist/
+build/
+.DS_Store
+.vscode/
+*.log
